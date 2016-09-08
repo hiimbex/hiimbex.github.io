@@ -1,5 +1,5 @@
 .main-content {
-    color: white;
+    color: #d9d9d9;
     text-align: center;
     position: fixed;
     top: 50%;
@@ -8,11 +8,17 @@
     margin-left: -100px;
 }
 
-.social-media {
-
-}
-
 .github {
+    display: inline-block;
     height: 40px;
     width: 40px;
+}
+/*
+.linked-in {
+    height: 45px;
+    width: 45px;
+}*/
+
+body {
+    background-color: #009973;
 }
