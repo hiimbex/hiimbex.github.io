@@ -1,11 +1,12 @@
 .main-content {
-    color: #d9d9d9;
+    color: #6EA489;
     text-align: center;
     position: fixed;
     top: 50%;
     left: 50%;
     margin-top: -100px;
     margin-left: -100px;
+    font-family: "Raleway", sans-serif;
 }
 
 .github {
@@ -20,5 +21,5 @@
 }*/
 
 body {
-    background-color: #009973;
+    background-color: #256E5D;
 }
