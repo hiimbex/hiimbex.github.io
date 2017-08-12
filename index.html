@@ -1,26 +1,68 @@
-<!DOCTYPE HTML>
-    <head>
-        <link rel="stylesheet" type="text/css" href="style.css">
-        <link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
-    </head>
-    <title>
-        Bex Warner
-    </title>
-    <!-- <body background="images/background2.jpg"> -->
-    <body>
-        <div class="main-content">
-            <h1>Bex Warner</h1>
-            <h3>Aspiring Software Engineer</h3>
-            <a href="images/BexWarnerResume.pdf">Check out my resume!</a>
+---
+layout: default
+---
 
-            <div class="social-media">
-                <br>
-                <a href="http://github.com/hiimbex" target="_blank"><img class="github" src="images/github.svg"></a>
-                <br>
-                <!-- <div class="linked-in">
-                    <a href="http://linkedin.com/hiimbex" target="_blank"><img src="images/linkedin.png"></a>
-                </div> -->
+<!-- Wrapper -->
+<div id="wrapper">
+
+    <!-- Header -->
+    <header id="header">
+        <h1><a href="#footer"><strong>Art</strong> by Bex</a></h1>
+        <nav>
+            <ul>
+                <li><a href="#footer" class="icon fa-info-circle">About</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- Main -->
+    <div id="main">
+        {% for image in site.static_files %}
+            {% if image.path contains 'fulls' %}
+                <article class="thumb">
+                    <a href="{{ site.baseurl }}{{ site.image_fulls_loc }}/{{ image.name }}" class="image">
+                    <img src="{{ site.baseurl }}{{ site.image_thumbs_loc }}/{{ image.name }}" alt="" data-name="{{ image.name }}"/></a>
+                    <!--<h2></h2>
+                    <p></p>-->
+                </article>
+            {% endif %}
+        {% endfor %}
+    </div>
+
+    <!-- Footer -->
+    <footer id="footer" class="panel">
+        <div class="inner split">
+            <div>
+                <section>
+                    <h2>Hiya! 👋 I'm Bex</h2>
+                    <p>{{ site.bio }}</p>
+                </section>
+                <section>
+                    <h2>Follow me: </h2>
+                    <ul class="icons">
+                        <li><a href="{{ site.social_urls.github }}" class="icon fa-github"><span
+                                class="label">GitHub</span></a>
+                        </li>
+                        <li><a href="{{ site.social_urls.linkedin }}" class="icon fa-linkedin"><span
+                                class="label">LinkedIn</span></a>
+                        </li>
+                    </ul>
+                </section>
+                <p class="copyright">
+                    &copy; {{ site.author }}
+                </p>
+                <p>{{ site.publicise }}</p>
+            </div>
+            <div>
+                <section>
+                    <h2>Cool stuff about me</h2>
+                    <p>Creator of <a href="https://github.com/behaviorbot">behaviorbot</a><br/>
+                      Maintainer of <a href="https://github.com/probot">probot</a><br/>
+                      Can explain the modular arithmetic behind RSA encryption
+                    
+                    </p>
+                </section>
             </div>
         </div>
-    </body>
-</html>
+    </footer>
+</div>
