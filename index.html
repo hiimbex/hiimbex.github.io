@@ -21,9 +21,7 @@ layout: default
             {% if image.path contains 'fulls' %}
                 <article class="thumb">
                     <a href="{{ site.baseurl }}{{ site.image_fulls_loc }}/{{ image.name }}" class="image">
-                    <img src="{{ site.baseurl }}{{ site.image_thumbs_loc }}/{{ image.name }}" alt="" data-name="{{ image.name }}"/></a>
-                    <!--<h2></h2>
-                    <p></p>-->
+                    <img src="{{ site.baseurl }}{{ site.image_fulls_loc }}/{{ image.name }}" alt=""/></a>
                 </article>
             {% endif %}
         {% endfor %}
@@ -58,8 +56,7 @@ layout: default
                     <h2>Cool stuff about me</h2>
                     <p>Creator of <a href="https://github.com/behaviorbot">behaviorbot</a><br/>
                       Maintainer of <a href="https://github.com/probot">probot</a><br/>
-                      Can explain the modular arithmetic behind RSA encryption
-                    
+                      Enjoys explaining the modular arithmetic behind RSA encryption
                     </p>
                 </section>
             </div>
