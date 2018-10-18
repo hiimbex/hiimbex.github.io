@@ -1,0 +1,32 @@
+---
+name: "prints"
+arts:
+# Column 1
+- image: "images/galleries/prints/keltic-1.jpg"
+  order: "1"
+  title: "Lesbica"
+
+- image: "images/galleries/prints/bonzai.jpg"
+  order: "2"
+
+- image: "images/galleries/prints/shells.png"
+  order: "3"
+
+# Column 2
+- image: "images/galleries/prints/me.jpg"
+  order: "4"
+
+- image: "images/galleries/prints/keltic-2.jpg"
+  order: "5"
+
+- image: "images/galleries/prints/agnikai.jpg"
+  order: "6"
+
+# Column 3
+- image: "images/galleries/prints/paper.png"
+  order: "7"
+
+- image: "images/galleries/prints/keltic-3.jpg"
+  order: "8"
+
+---

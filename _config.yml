@@ -1,19 +1,12 @@
 # Site settings
-title: Starving Artist Jekyll Theme
-email: ctarwater@chrisanthropic.com
-author: Chrisanthropic
+title: Art by Bex
+email: bexmwarner@gmail.com
+author: hiimbex
 
 keywords: jekyll, jekyll theme, portfolio theme, artist theme
-description: Witty description here.
+description: my art!!!
 
-# Only use this if you are serving your site via Github Pages
-github:
-  url: "https://chrisanthropic.github.io/starving-artist-jekyll-theme"
-
-header: images/logo.png
-
-# Formspree contact Form
-contact_form: "https://formspree.io/ctarwater@chrisanthropic.com"
+header: images/author.png
 
 
 # Exclude our ruby stuff
@@ -26,38 +19,23 @@ kramdown:
   input: GFM
 
 theme: starving-artist-jekyll-theme
-  
+
 # Plugins
 gems:
   - jekyll-feed
 
 feed:
   path: atom.xml
-  
-# Compress our Css
-#sass:
-#    style: :compressed
 
 include: ['_pages']
-
-permalink: /blog/:year/:title
 
 collections:
   - galleries
 
 #### SEO Stuff
-# Google Analytics
-google_universal_analytics: 
 google_universal_analytics_cookiedomain: auto
-
-# Facebook Opengraph
-facebook_user:
-facebook_app_id:                                #enter your App ID
 facebook_locale: en_US
-facebook_page:                                  #the URL of your Facebook Page
-facebook_image: images/author.jpg                      #enter a default image (at least 200x200px) to use here for posts/pages that don't have one.
-
-# Twitter Cards
-twitter_user: 
+facebook_image: images/author.png                      #enter a default image (at least 200x200px) to use here for posts/pages that don't have one.
+twitter_user: hiimbexo
 twitter_card: true
-twitter_image: images/author.jpg                       #enter a default image (at least 200x200px) to use here for posts/pages that don't have one.
+twitter_image: images/author.png                       #enter a default image (at least 200x200px) to use here for posts/pages that don't have one.

@@ -1,0 +1,36 @@
+---
+name: "drawings"
+arts:
+# Column 1
+- image: "images/galleries/drawings/lesbica.jpg"
+  order: "1"
+  title: "Lesbica"
+
+- image: "images/galleries/drawings/tapestry.jpg"
+  order: "2"
+
+- image: "images/galleries/drawings/grumpy.jpg"
+  order: "3"
+
+# Column 2
+- image: "images/galleries/drawings/observing.jpg"
+  order: "4"
+
+- image: "images/galleries/drawings/christmas.jpg"
+  order: "5"
+
+- image: "images/galleries/drawings/aconversation.jpg"
+  order: "6"
+
+# Column 3
+- image: "images/galleries/drawings/yellow.jpg"
+  order: "7"
+
+- image: "images/galleries/drawings/womansitting.jpg"
+  order: "8"
+
+
+- image: "images/galleries/drawings/bike.jpg"
+  order: "9"
+
+---

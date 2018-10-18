@@ -8,10 +8,10 @@
 	{% for nav in site.data.nav %}
 	  {% if nav.subcategories != null %}
 	    <li class="header-nav dropdown">
-	      <a href="{{ site.github.url }}{{ nav.url }}">{{ nav.title }}</a>
+	      <a href="{{ site.url }}{{ nav.url }}">{{ nav.title }}</a>
 		<ul>
 		  {% for subcategory in nav.subcategories %}
-		    <li><a href="{{ site.github.url }}{{ subcategory.subhref }}">{{ subcategory.subtitle }}</a></li>
+		    <li><a href="{{ site.url }}{{ subcategory.subhref }}">{{ subcategory.subtitle }}</a></li>
 		  {% endfor %}
 		</ul>
 	    </li>
@@ -28,7 +28,7 @@
 		  <li class="active"><a href="{{ nav.href }}">{{ nav.title }}</a></li>
 		{% else %}
 		  {% if nav.href %}
-		  <li><a href="{{ site.github.url }}{{ nav.href }}">{{ nav.title }}</a></li>
+		  <li><a href="{{ site.url }}{{ nav.href }}">{{ nav.title }}</a></li>
 		    {% elsif nav.external %}
 		    <li><a href="{{ nav.external }}">{{ nav.title }}</a></li>
 		  {% endif %}

@@ -1,0 +1,49 @@
+---
+name: "paintings"
+arts:
+# Row 1
+- image: "images/galleries/paintings/eggs.JPG"
+  order: "1"
+
+  title: "eggssss"
+  description: "Just some eggs. (oil)"
+
+- image: "images/galleries/paintings/eye.jpg"
+  order: "5"
+
+  title: "Half of an eye"
+  description: "Half of an eye. (oil)"
+
+# Row 2
+- image: "images/galleries/paintings/feelings-i-dont-have-words-for.jpg"
+  order: "2"
+
+  title: "feelings i dont have words for"
+  description: "Finder painted. (acrylic)"
+
+- image: "images/galleries/paintings/fruitt.jpg"
+  order: "6"
+
+  title: "Fruitt"
+  description: "Classic still life + run away grapes. (oil)"
+
+# Row 3
+- image: "images/galleries/paintings/purple.jpg"
+  order: "3"
+
+  title: "Woman in Purple"
+  description: "Live modeling session. (acrylic)"
+
+- image: "images/galleries/paintings/sleep.jpg"
+  order: "7"
+
+  title: "untitled"
+  description: "Based off a Lucian Freud painting. (acrylic)"
+
+# Row 4
+- image: "images/galleries/paintings/system.jpg"
+  order: "4"
+
+  title: "pew pew"
+  description: "System based piece. (acrylic)"
+---

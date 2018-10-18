@@ -1,0 +1,13 @@
+---
+name: "sculpture"
+arts:
+# Column 1
+- image: "images/galleries/sculpture/vaj.jpg"
+  order: "1"
+
+- image: "images/galleries/sculpture/drinks.jpg"
+  order: "2"
+
+- image: "images/galleries/sculpture/bowl.jpg"
+  order: "3"
+---
