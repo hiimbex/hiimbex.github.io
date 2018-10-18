@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Site settings
 title: Art by Bex
 email: bexmwarner@gmail.com
@@ -39,3 +40,18 @@ facebook_image: images/author.png                      #enter a default image (a
 twitter_user: hiimbexo
 twitter_card: true
 twitter_image: images/author.png                       #enter a default image (at least 200x200px) to use here for posts/pages that don't have one.
+=======
+baseurl: ""
+url: "http://hiimbex.me/art"
+image_fulls_loc: "/images/fulls"
+image_thumbs_loc: "/images/thumbs"
+
+title: "Bex Warner"
+author: "Bex Warner"
+bio: "I am a software engineer and artist seeking to make the world a better place through open source and the uplifting of underrepresented groups in tech.<br/>All artwork belongs to me."
+publicise: "Credit for this jekyll theme goes to <a href=\"https://github.com/ramswaroop/photography\">Ram Patra</a>"
+social_urls:
+  linkedin: "https://www.linkedin.com/in/bex-warner-a72ab1122/"
+  github: "https://www.github.com/hiimbex"
+  twitter: "https://www.twitter.com/hiimbexo"
+>>>>>>> 76e01796c504ddddc2003b54961b6c131fa3bc0d
