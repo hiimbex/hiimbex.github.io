@@ -5,7 +5,7 @@ layout: default
     <div>  {% for gallery in site.galleries %} {% if gallery.name == page.title %} {% for art in gallery.arts %}
         <div class="masonry-panel">
             <a href="#{{ art.order }}" data-caption-desc="{{ art.description }}">
-                <img src="{{ site.url }}/{{ art.image }}" alt="{{ art.title }}"class="zoom">
+                <img src="{{ site.url }}/{{ art.image }}" alt="{{ art.title }}"class="zoom" style="max-width:100%;">
             </a>
         </div>{% endfor %} {% endif %} {% endfor %}
     </div>
@@ -16,13 +16,13 @@ layout: default
     <a href="#x" class="small-12 columns lightbox-overlay" id="{{ art.order }}"></a>
         <div class="lightbox-popup center-text">
         <div class="small-12 columns lightbox-nav-wrap">
-                    <div class="small-4 lightbox-nav">
+                    <div class="small-6 lightbox-nav">
                         <a class="lightbox-prev" href="#{{ art.order | minus: 1 }}">&#171;</a>
                     </div>
-                    <div class="small-4 lightbox-nav">
+                    <div class="small-6 lightbox-nav">
                         <a class="lightbox-next" href="#{{ art.order | plus: 1 }}">&#187;</a>
                     </div>
-                    <div class="small-4 lightbox-nav">
+                    <div class="small-6 lightbox-nav">
                         <a class="lightbox-popup-close" href="#close">&times;</a>
                     </div>
         </div>

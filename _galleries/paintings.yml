@@ -1,48 +1,45 @@
 ---
 name: "paintings"
 arts:
-# Row 1
-- image: "images/galleries/paintings/eggs.JPG"
+
+- image: "images/galleries/paintings/feelings-i-dont-have-words-for.JPG"
   order: "1"
+
+  title: "feelings i dont have words for"
+  description: "Finger painted. (acrylic)"
+
+- image: "images/galleries/paintings/eggs.JPG"
+  order: "2"
 
   title: "eggssss"
   description: "Just some eggs. (oil)"
 
-- image: "images/galleries/paintings/eye.JPG"
-  order: "5"
-
-  title: "Half of an eye"
-  description: "Half of an eye. (oil)"
-
-# Row 2
-- image: "images/galleries/paintings/feelings-i-dont-have-words-for.JPG"
-  order: "2"
-
-  title: "feelings i dont have words for"
-  description: "Finder painted. (acrylic)"
-
-- image: "images/galleries/paintings/fruitt.JPG"
-  order: "6"
-
-  title: "Fruitt"
-  description: "Classic still life + run away grapes. (oil)"
-
-# Row 3
 - image: "images/galleries/paintings/purple.JPG"
   order: "3"
 
   title: "Woman in Purple"
   description: "Live modeling session. (acrylic)"
 
+- image: "images/galleries/paintings/eye.JPG"
+  order: "4"
+
+  title: "Half of an eye"
+  description: "Half of an eye. (oil)"
+
+- image: "images/galleries/paintings/fruitt.JPG"
+  order: "5"
+
+  title: "Fruitt"
+  description: "Classic still life + run away grapes. (oil)"
+
 - image: "images/galleries/paintings/sleep.JPG"
-  order: "7"
+  order: "6"
 
   title: "untitled"
   description: "Based off a Lucian Freud painting. (acrylic)"
 
-# Row 4
 - image: "images/galleries/paintings/system.JPG"
-  order: "4"
+  order: "7"
 
   title: "pew pew"
   description: "System based piece. (acrylic)"

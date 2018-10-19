@@ -2,11 +2,12 @@
 // https://jsbin.com/tuxoqusaxu/2/edit?css,output
 
 .masonry {
+  column-count: 2;
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
-  -webkit-column-count: 4;
-     -moz-column-count: 4;
-          column-count: 4;
+  -webkit-column-count: 2;
+     -moz-column-count: 2;
+          column-count: 2;
   -webkit-column-gap: 0;
      -moz-column-gap: 0;
           column-gap: 0;

@@ -1,7 +1,7 @@
 ---
 name: "drawings"
 arts:
-# Column 1
+
 - image: "images/galleries/drawings/lesbica.jpg"
   order: "1"
   title: "Lesbica"
@@ -12,7 +12,6 @@ arts:
 - image: "images/galleries/drawings/grumpy.JPG"
   order: "3"
 
-# Column 2
 - image: "images/galleries/drawings/observing.JPG"
   order: "4"
 
@@ -22,15 +21,12 @@ arts:
 - image: "images/galleries/drawings/aconversation.JPG"
   order: "6"
 
-# Column 3
 - image: "images/galleries/drawings/yellow.JPG"
   order: "7"
 
 - image: "images/galleries/drawings/womansitting.JPG"
   order: "8"
 
-
 - image: "images/galleries/drawings/bike.JPG"
   order: "9"
-
 ---

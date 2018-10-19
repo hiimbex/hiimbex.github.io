@@ -1,7 +1,7 @@
 ---
 name: "sculpture"
 arts:
-# Column 1
+
 - image: "images/galleries/sculpture/vaj.JPG"
   order: "1"
 
