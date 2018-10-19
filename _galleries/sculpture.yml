@@ -8,6 +8,9 @@ arts:
 - image: "images/galleries/sculpture/drinks.JPG"
   order: "2"
 
-- image: "images/galleries/sculpture/bowl.JPG"
+- image: "images/galleries/sculpture/georgie.JPG"
   order: "3"
+
+- image: "images/galleries/sculpture/bowl.JPG"
+  order: "4"
 ---

@@ -18,15 +18,18 @@ arts:
 - image: "images/galleries/drawings/christmas.JPG"
   order: "5"
 
-- image: "images/galleries/drawings/aconversation.JPG"
+- image: "images/galleries/drawings/mirror.jpg"
   order: "6"
 
-- image: "images/galleries/drawings/yellow.JPG"
+- image: "images/galleries/drawings/aconversation.JPG"
   order: "7"
 
-- image: "images/galleries/drawings/womansitting.JPG"
+- image: "images/galleries/drawings/yellow.JPG"
   order: "8"
 
-- image: "images/galleries/drawings/bike.JPG"
+- image: "images/galleries/drawings/womansitting.JPG"
   order: "9"
+
+- image: "images/galleries/drawings/bike.JPG"
+  order: "10"
 ---

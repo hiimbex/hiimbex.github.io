@@ -20,11 +20,11 @@ arts:
   title: "Woman in Purple"
   description: "Live modeling session. (acrylic)"
 
-- image: "images/galleries/paintings/eye.JPG"
+- image: "images/galleries/paintings/system.JPG"
   order: "4"
 
-  title: "Half of an eye"
-  description: "Half of an eye. (oil)"
+  title: "pew pew"
+  description: "System based piece. (acrylic)"
 
 - image: "images/galleries/paintings/fruitt.JPG"
   order: "5"
@@ -32,15 +32,20 @@ arts:
   title: "Fruitt"
   description: "Classic still life + run away grapes. (oil)"
 
-- image: "images/galleries/paintings/sleep.JPG"
+- image: "images/galleries/paintings/eye.JPG"
   order: "6"
+
+  title: "Half of an eye"
+  description: "Half of an eye. (oil)"
+
+- image: "images/galleries/paintings/paper.JPG"
+  order: "7"
+
+  description: "Color study based on paper model. (acrylic)"
+
+- image: "images/galleries/paintings/sleep.JPG"
+  order: "8"
 
   title: "untitled"
   description: "Based off a Lucian Freud painting. (acrylic)"
-
-- image: "images/galleries/paintings/system.JPG"
-  order: "7"
-
-  title: "pew pew"
-  description: "System based piece. (acrylic)"
 ---
