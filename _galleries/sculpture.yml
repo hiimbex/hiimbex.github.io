@@ -5,11 +5,14 @@ arts:
 - image: "images/galleries/sculpture/vaj.JPG"
   order: "1"
 
+- image: "images/galleries/sculpture/paper.JPG"
+  order: "3"
+
 - image: "images/galleries/sculpture/drinks.JPG"
-  order: "2"
+  order: "3"
 
 - image: "images/galleries/sculpture/georgie.JPG"
-  order: "3"
+  order: "4"
 
 - image: "images/galleries/sculpture/bowl.JPG"
   order: "4"
