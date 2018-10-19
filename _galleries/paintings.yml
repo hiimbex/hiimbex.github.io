@@ -8,40 +8,40 @@ arts:
   title: "eggssss"
   description: "Just some eggs. (oil)"
 
-- image: "images/galleries/paintings/eye.jpg"
+- image: "images/galleries/paintings/eye.JPG"
   order: "5"
 
   title: "Half of an eye"
   description: "Half of an eye. (oil)"
 
 # Row 2
-- image: "images/galleries/paintings/feelings-i-dont-have-words-for.jpg"
+- image: "images/galleries/paintings/feelings-i-dont-have-words-for.JPG"
   order: "2"
 
   title: "feelings i dont have words for"
   description: "Finder painted. (acrylic)"
 
-- image: "images/galleries/paintings/fruitt.jpg"
+- image: "images/galleries/paintings/fruitt.JPG"
   order: "6"
 
   title: "Fruitt"
   description: "Classic still life + run away grapes. (oil)"
 
 # Row 3
-- image: "images/galleries/paintings/purple.jpg"
+- image: "images/galleries/paintings/purple.JPG"
   order: "3"
 
   title: "Woman in Purple"
   description: "Live modeling session. (acrylic)"
 
-- image: "images/galleries/paintings/sleep.jpg"
+- image: "images/galleries/paintings/sleep.JPG"
   order: "7"
 
   title: "untitled"
   description: "Based off a Lucian Freud painting. (acrylic)"
 
 # Row 4
-- image: "images/galleries/paintings/system.jpg"
+- image: "images/galleries/paintings/system.JPG"
   order: "4"
 
   title: "pew pew"

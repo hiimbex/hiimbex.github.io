@@ -2,12 +2,12 @@
 name: "sculpture"
 arts:
 # Column 1
-- image: "images/galleries/sculpture/vaj.jpg"
+- image: "images/galleries/sculpture/vaj.JPG"
   order: "1"
 
-- image: "images/galleries/sculpture/drinks.jpg"
+- image: "images/galleries/sculpture/drinks.JPG"
   order: "2"
 
-- image: "images/galleries/sculpture/bowl.jpg"
+- image: "images/galleries/sculpture/bowl.JPG"
   order: "3"
 ---
