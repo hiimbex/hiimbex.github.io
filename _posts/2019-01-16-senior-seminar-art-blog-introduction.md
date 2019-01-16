@@ -13,7 +13,7 @@ Hello. This is the start of my blog for my senior seminar class. It will be used
 
 Recently my obsession with books has been rekindled. As a child, I was an avid reader and grew up surrounded by more books than people. During summer break, I would occupy myself reading a book a day or sometimes more.
 
-<img src="/images/posts/cassie.jpg" alt="cassie" style="width:300px;"/>
+<img src="/images/posts/cassie.JPG" alt="cassie" style="width:300px;"/>
 
 I have this vivid memory of coming back to school--maybe 4th grade--from summer break and the teacher asking everyone what they did, where they traveled, and how many books they had read. I remember being shocked how many kids said 3 or 4 books, or 'does a magazine count?' When my turn arrived I remember shaking my head that I had no idea how many books I read, and the teacher said 'give us an estimate.' I replied maybe a hundred? And I remember feeling both pride at being so ahead of the rest of class, yet horror of standing out so much.
 
