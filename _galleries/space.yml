@@ -1,0 +1,22 @@
+---
+name: "space"
+arts:
+
+- image: "images/galleries/space/6.JPG"
+  order: "1"
+
+- image: "images/galleries/space/3.JPG"
+  order: "2"
+
+- image: "images/galleries/space/2.JPG"
+  order: "3"
+
+- image: "images/galleries/space/1.JPG"
+  order: "4"
+
+- image: "images/galleries/space/5.JPG"
+  order: "5"
+
+- image: "images/galleries/space/4.JPG"
+  order: "6"
+---
