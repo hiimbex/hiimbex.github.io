@@ -6,7 +6,7 @@ author: hiimbex
 keywords: jekyll, jekyll theme, portfolio theme, artist theme
 description: my art!!!
 
-header: images/author.png
+header: images/author.JPG
 
 
 # Exclude our ruby stuff
@@ -37,7 +37,7 @@ collections:
 #### SEO Stuff
 google_universal_analytics_cookiedomain: auto
 facebook_locale: en_US
-facebook_image: images/author.png                      #enter a default image (at least 200x200px) to use here for posts/pages that don't have one.
+facebook_image: images/author.JPG                     #enter a default image (at least 200x200px) to use here for posts/pages that don't have one.
 twitter_user: hiimbexo
 twitter_card: true
-twitter_image: images/author.png                       #enter a default image (at least 200x200px) to use here for posts/pages that don't have one.
+twitter_image: images/author.JPG                       #enter a default image (at least 200x200px) to use here for posts/pages that don't have one.
