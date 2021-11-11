@@ -7,12 +7,13 @@ description: My new pandemic hobby of puzzling
 thumbnail: images/posts/puzzles/1.JPG
 
 ---
-Hello and happy almost 2022! I wanted to document and share my journey of becoming obsessed with puzzling during the pandemic. Since then I have completed nearly 100 jigsaw puzzles, primarily around 1000 pieces each. What started as a way to kill time, turned into a love and joy for the simple act of solving jigsaw puzzles. From discovering that Goodwill in Michigan sells puzzles for $1 to pulling relics from the back of my childhood home's attic, this experience has been nothing short of wonderful since the beginning.
+Hello and happy almost 2022!
+
+I wanted to document and share my journey of becoming obsessed with puzzling during the pandemic. Since then I have completed nearly 100 jigsaw puzzles, primarily around 1000 pieces each. What started as a way to kill time, turned into a love and joy for the act of solving jigsaw puzzles. From discovering that Goodwill in Michigan sells puzzles for $1 to pulling relics from the back of my childhood home's attic, this experience has been nothing short of wonderful since the beginning.
+
+There is something I find highly satisfying about the act of creating an imagine from its distinct pieces. The techniques you pick up to more efficiently "solve" puzzles are very fun to identify and utilize.
 
 I wanted to tell this story with photos of the puzzles I've completed as well as some memories made along the way. It is quite long since it includes nearly a hundred photographs of puzzles, but I highly recommend for some rainy day entertainment.
-
-There is something I find highly satisfying about the act of creating an imagine from its distinct pieces. The techniques you pick up to more efficiently "solve" puzzles are very fun to identify znd utilize.
-
 
 <img src="/images/posts/puzzles/1.JPG" style="width:950px;"/>
 <br>
