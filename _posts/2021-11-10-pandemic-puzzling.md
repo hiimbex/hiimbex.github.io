@@ -37,7 +37,7 @@ This next puzzle was also a loaner from my Aunt and a lovely sea-scape. This one
 
 <img src="/images/posts/puzzles/6.JPG" style="width:950px;"/>
 <br>
-This 1500 piece black and white puzzle of the art of M. C. Escher almost broke me. This was far and away the largest and most difficult puzzle I had done to date. An addition of 500 pieces, might not seem like much, but that combined with the lack of color and lack of distinct sections made for an extremely difficult puzzle. The bottom 1/3 we completed relatively quickly, but those birds fading into the sky became quite a drawn out process. The image itself is lovely. It is a reflection of itself in inverted black and white colors, creating a fascinating illusion.
+This 1500 piece black and white puzzle of the art of M. C. Escher almost broke me. This was far and away the largest and most difficult puzzle I had done to date. An addition of 500 pieces might not seem like much, but that combined with the lack of color and lack of distinct sections made for an extremely difficult puzzle. The bottom 1/3 we completed relatively quickly, but those birds fading into the sky became quite a drawn out process. The image itself is lovely. It is a reflection of itself in inverted black and white colors, creating a fascinating illusion.
 
 <img src="/images/posts/puzzles/7.JPG" style="width:950px;"/>
 <br>
@@ -57,11 +57,11 @@ This next candy puzzle was also borrowed from my Aunt - she had quite a nice col
 
 <img src="/images/posts/puzzles/11.JPG" style="width:950px;"/>
 <br>
-This next puzzle was the first puzzle we did after we ran out of convenient family-supplied puzzles. This was also our first Ravensburger puzzle, a brand that, amongst puzzlers, carries a great deal of respect and weight. Ravensburger puzzles are very consistent and very high quality. This particular one, although its photo does not do it justice, represented a very humours book store, with dozens of funny phrasings available to be read on even the tiniest of books. It was quite amusing when putting it together to read something like "Cure for Bats" and have the rest of the joke be cut off - only to be fully read when its mate was discovered.
+This next puzzle was the first puzzle we did after we ran out of convenient family-supplied puzzles. This was also our first Ravensburger puzzle, a brand that, amongst puzzlers, carries a great deal of respect and weight. Ravensburger puzzles are very consistent and very high quality. This particular one, although its photo does not do it justice, represented a very humorous book store, with dozens of funny phrasings available to be read on even the tiniest of books. It was quite amusing when putting it together to read something like "Cure for Bats" and have the rest of the joke be cut off - only to be fully read when its mate was discovered.
 
 <img src="/images/posts/puzzles/12.JPG" style="width:950px;"/>
 <br>
-Shortly after completing our first Ravensburger, my mom had the brilliant idea to hit up the Grand Haven Goodwill to search for some less expense options for puzzles. It is rather difficult to justify spending $20-30 for a puzzle with the intention of only completing it once. At this point it might be important to point out that our family has no tradition of gluing or framing puzzles. We tend to take them apart as soon as they've sat finished for a day. We also do not subscribe to the bizarre, fringe group of puzzle who believe using the box is "cheating".
+Shortly after completing our first Ravensburger, my mom had the brilliant idea to hit up the Grand Haven Goodwill to search for some less expense options for puzzles. It is rather difficult to justify spending $20-30 for a puzzle with the intention of only completing it once. At this point it might be important to point out that our family has no tradition of gluing or framing puzzles. We tend to take them apart as soon as they've sat finished for a day. We also do not subscribe to the bizarre, fringe group of puzzlers who believe using the box is "cheating".
 
 This was our first official puzzle "haul" -- we should have made an unboxing video! The bizarreness of this particular grouping of puzzles will hopefully not go unnoticed.
 
@@ -127,7 +127,7 @@ Next up was another house puzzle that features some highly questionable roofing 
 
 <img src="/images/posts/puzzles/27.JPG" style="width:950px;"/>
 <br>
-Next up we took on the Milan Duomo. This one was rather tedious as well given the giant mass of blue sky and repetitive pilar structures.
+Next up we took on the Milan Duomo. This one was rather tedious as well given the giant mass of blue sky and repetitive pillar structures.
 
 <img src="/images/posts/puzzles/28.JPG" style="width:950px;"/>
 <br>
@@ -165,7 +165,7 @@ Slowly, but steadily we made our way through our European tour. Having done a si
 
 <img src="/images/posts/puzzles/36.JPG" style="width:950px;"/>
 <br>
-The Colosseum was a particularly fun architectural puzzle given its archways patterns to put together. I don't have a good photo of my mom and I here, since it was so dark when we went for the "night tour". This photo is, however, a great nighttime shot.
+The Colosseum was a particularly fun architectural puzzle given its archway patterns to put together. I don't have a good photo of my mom and I here, since it was so dark when we went for the "night tour". This photo is, however, a great nighttime shot.
 
 <img src="/images/posts/puzzles/37.JPG" style="width:750px;"/>
 <br>
@@ -203,7 +203,7 @@ After I started the border on this Goodwill puzzle, I immediately wanted to quit
 
 <img src="/images/posts/puzzles/45.JPG" style="width:750px;"/>
 <br>
-Next up we had this lovely, lazy sloth boy, surrounding by eye-catchingly colorful forrest friends. This was another excellent puzzle from Goodwill.
+Next up we had this lovely, lazy sloth boy, surrounded by eye-catchingly colorful forest friends. This was another excellent puzzle from Goodwill.
 
 <img src="/images/posts/puzzles/46.JPG" style="width:750px;"/>
 <br>
@@ -231,7 +231,7 @@ This next puzzle was provided by my mother's alma mater, University of Chicago L
 
 <img src="/images/posts/puzzles/51.JPG" style="width:950px;"/>
 <br>
-This next puzzle was, as you can imagine, a very quick experience. But given our love for Baby Yoda, combined with Goodwill's $1 price tag, we couldn't help ourselves. I actually quite enjoyed the size and shape of the pieces for this puzzle. Most larger "adult" puzzles tend to have less piece shape variety and therefore lack a tactile element that this puzzle provided.
+This next puzzle was, as you can imagine, a very quick experience. But given our love for Baby Yoda, combined with Goodwill's $1 price tag, we couldn't help ourselves. I actually quite enjoyed the size and shape of the pieces for this puzzle. Most larger "adult" puzzles tend to have less piece shape variety and therefore lack a tactile element that this puzzle provides.
 
 <img src="/images/posts/puzzles/52.JPG" style="width:750px;"/>
 <br>
@@ -243,7 +243,7 @@ Next up was a very fun puzzle, a Ravensburger Escape Room Puzzle - such a fun co
 
 <img src="/images/posts/puzzles/54.JPG" style="width:950px;"/>
 <br>
-Essentially each game's outcome is a unique number and the numbers correspond to various edge pieces, which fit together to create a laser used to blow up a meteor to stop it from destroying earth! I think it's a very cute concept, but I had to rely heavily on the hints. It was pretty difficult to determine the bounds of the math puzzles, as for several I could come up with multiple possible solutions. Additionally, I think the 'create a laser' solution was a bit obvious when assembling the puzzle, given how much trouble the edge pieces gave me when putting together. Since they have to fit with other edge pieces to eventually form the laser this makes sense, but unfortunately made it quite obvious to me early on. Overall I think this could be a fun family activity, especially with kids!
+Essentially each game's outcome is a unique number and the numbers correspond to various edge pieces, which fit together to create a laser used to blow up a meteor to stop it from destroying earth! I think it's a very cute concept, but I had to rely heavily on the hints. It was pretty difficult to determine the bounds of the math puzzles, as for several I could come up with multiple possible solutions. Additionally, I think the 'create a laser' solution was a bit obvious when assembling the puzzle, given how much trouble the edge pieces gave me when putting them together. Since they have to fit with other edge pieces to eventually form the laser this makes sense, but unfortunately made it quite obvious to me early on. Overall I think this could be a fun family activity, especially with kids!
 
 <img src="/images/posts/puzzles/55.JPG" style="width:750px;"/>
 <br>
@@ -263,7 +263,7 @@ This next puzzle was found at a Little Free Library a block away from my apartme
 
 <img src="/images/posts/puzzles/59.JPG" style="width:950px;"/>
 <br>
-This next puzzle was a gift from my dad and was extremely difficult, I was ready to give after just doing the border but I persisted. It was on the same lovely thin wood as the large bookshelf puzzle he got us during the holidays.
+This next puzzle was a gift from my dad and was extremely difficult. I was ready to give after just doing the border, but I persisted. It was on the same lovely thin wood as the large bookshelf puzzle he got us during the holidays.
 
 <img src="/images/posts/puzzles/60.JPG" style="width:950px;"/>
 <br>
@@ -271,7 +271,7 @@ The next puzzle I did was a classic Buffalo, an excellent American brand. I late
 
 <img src="/images/posts/puzzles/61.JPG" style="width:950px;"/>
 <br>
-This next puzzle is made by National Geographic and was sent to me by my dad after a conversation in which he was embarrassed to learn of my lack of geographic knowledge. It was quite enjoyable putting this together without looking up any locations of cities of countries. I actually think I did quite well assembling all the land masses on that basis. I really enjoy the variety of shapes in this puzzle's pieces as well. They had a good thickness that made for a very satisfying experience.
+This next puzzle was made by National Geographic and was sent to me by my dad after a conversation in which he was embarrassed to learn of my lack of geographic knowledge. It was quite enjoyable putting this together without looking up any locations of cities or countries. I actually think I did quite well assembling all the land masses on that basis. I really enjoy the variety of shapes in this puzzle's pieces as well. They had a good thickness that made for a very satisfying experience.
 
 <img src="/images/posts/puzzles/62.JPG" style="width:950px;"/>
 <br>
@@ -283,7 +283,7 @@ This next puzzle was another gift from my dad. I think he wanted to keep me busy
 
 <img src="/images/posts/puzzles/64.JPG" style="width:750px;"/>
 <br>
-After the last few puzzles, I was feeling a little bored at how quickly I was completing puzzles and decided I needed a new challenge. Since the largest puzzle I'd done previously was 1500 pieces, I thought why not double it? So i bought myself this gorgeous, but highly chaotic 3000 piece puzzle depicting buildings, monuments, and landmarks around the world, aptly named: "THE PUZZLE OF THE WORLD". Hand is for scale! The following photos will include some progress shots as I worked my way through this bad boy.
+After the last few puzzles, I was feeling a little bored at how quickly I was completing puzzles and decided I needed a new challenge. Since the largest puzzle I'd done previously was 1500 pieces, I thought why not double it? So I bought myself this gorgeous, but highly chaotic 3000 piece puzzle depicting buildings, monuments, and landmarks around the world, aptly named: "THE PUZZLE OF THE WORLD". Hand is for scale! The following photos will include some progress shots as I worked my way through this bad boy.
 
 <img src="/images/posts/puzzles/65.JPG" style="width:750px;"/>
 <br>
@@ -295,7 +295,7 @@ On day 2, I mostly focused on assembling the sky region, which took most of the 
 
 <img src="/images/posts/puzzles/67.JPG" style="width:750px;"/>
 <br>
-The next day I worked on the puzzle was the Saturday of the next weekend. Puzzling was mainly a weekend morning/afternoon activity for me, as I was usually busy with work during the hours that got the best daylight. Speaking of which, good lighting is key to an successful puzzle assembly experience. On this day I accomplished more sections, built out the sky further and began sorting the increasingly terrifying quantity of pieces that did not yet fit into a distinct section.
+The next day I worked on the puzzle was the Saturday of the next weekend. Puzzling was mainly a weekend morning/afternoon activity for me, as I was usually busy with work during the hours that got the best daylight. Speaking of which, good lighting is key to a successful puzzle assembly experience. On this day I accomplished more sections, built out the sky further and began sorting the increasingly terrifying quantity of pieces that did not yet fit into a distinct section.
 
 <img src="/images/posts/puzzles/68.JPG" style="width:750px;"/>
 <br>
@@ -309,7 +309,7 @@ The final product - my labor of love!
 
 <img src="/images/posts/puzzles/70.JPG" style="width:950px;"/>
 <br>
-I couldn't raise my phone high enough when taking this photo to even capture the entire puzzle - that's how huge it is! The journey certainly had its highs and lows, but I'm glad I did it. In many ways puzzles have taught me persistance when I would otherwise want to quit. A lot of people asked me how long it took and I'm regretful I didn't time it, but I'd estimate 20-30 hours total.
+I couldn't raise my phone high enough when taking this photo to even capture the entire puzzle - that's how huge it is! The journey certainly had its highs and lows, but I'm glad I did it. In many ways puzzles have taught me persistence when I would otherwise want to quit. A lot of people asked me how long it took and I'm regretful I didn't time it, but I'd estimate 20-30 hours total.
 
 <img src="/images/posts/puzzles/71.JPG" style="width:950px;"/>
 <br>
@@ -317,7 +317,7 @@ After my 3000 piece puzzle I did take a long break, before tackling this somewha
 
 <img src="/images/posts/puzzles/72.JPG" style="width:950px;"/>
 <br>
-Next up, I brought this Star Wars puzzle with me on a trip with some friends to LA. It was my first vacation since being vaccinated and I went to DisneyLand for the first time, which I was surprised to discover I quite enjoyed - I especially loved the new Star Wars Rise of the Resistance ride! My friends and I worked on this puzzle the during evenings but were unable to complete it in LA. I slid the partially done sections onto pieces of paper and stacked them and laid books across the top. I crossed my fingers for the drive home. Somewhat surprisingly, it worked splendidly, and all our work was successfully preserved. I completed the puzzle shortly after and shared this photo with my friends to celebrate.
+Next up, I brought this Star Wars puzzle with me on a trip with some friends to LA. It was my first vacation since being vaccinated and I went to DisneyLand for the first time, which I was surprised to discover I quite enjoyed - I especially loved the new Star Wars Rise of the Resistance ride! My friends and I worked on this puzzle during the evenings but were unable to complete it in LA. I slid the partially done sections onto pieces of paper and stacked them and laid books across the top. I crossed my fingers for the drive home. Somewhat surprisingly, it worked splendidly, and all our work was successfully preserved. I completed the puzzle shortly after and shared this photo with my friends to celebrate.
 
 I know this is a controversial opinion but I loved the new Star Wars films, and not just because of their representation. I liked the expansion of Force powers represented and the themes it handled, especially focused on people not being wholly good or evil.
 
@@ -327,7 +327,7 @@ Next up was this fun patterned sock puzzle! Puzzles like this are really great f
 
 <img src="/images/posts/puzzles/74.jpeg" style="width:950px;"/>
 <br>
-Next up was this old fashioned tea party. The art style had a sort weird use of realism that I personally found somewhat off putting. I thought it made the food appear almost unappetizing, but it was still a fun puzzle to work on!
+Next up was this old fashioned tea party. The art style had a sort of weird use of realism that I personally found somewhat off putting. I thought it made the food appear almost unappetizing, but it was still a fun puzzle to work on!
 
 <img src="/images/posts/puzzles/75.jpeg" style="width:950px;"/>
 <br>
@@ -343,7 +343,7 @@ This next puzzle's name is Cassie, and she is too smart for her own good. She qu
 
 <img src="/images/posts/puzzles/78.jpeg" style="width:950px;"/>
 <br>
-Here's the completed version of this pastel styled cat puzzle that Cassie was perched upon. I didn't love the feel of these piece; the cardboard was far too soft, but they did have some very unusual shapes which I appreciated.
+Here's the completed version of this pastel styled cat puzzle that Cassie was perched upon. I didn't love the feel of these pieces; the cardboard was far too soft, but they did have some very unusual shapes which I appreciated.
 
 <img src="/images/posts/puzzles/79.jpeg" style="width:950px;"/>
 <br>
@@ -355,7 +355,7 @@ I have honestly no memory of doing this puzzle. It's clearly on my camera roll o
 
 <img src="/images/posts/puzzles/81.jpeg" style="width:950px;"/>
 <br>
-This next puzzle was another pleasure to complete. There's something about these aesthetic representations of winter that really tug at my heart strings. It's too bad Chicago winters in real life usually do not have such an effect.
+This next puzzle was another pleasure to complete. There's something about these aesthetic representations of winter that really tug at my heartstrings. It's too bad Chicago winters in real life usually do not have such an effect.
 
 <img src="/images/posts/puzzles/82.jpeg" style="width:950px;"/>
 <br>
@@ -370,7 +370,7 @@ This succulent puzzle was my most recent completion as of November 2021. It was 
 
 I would also like to note that my mom and I have re-donated the vast majority of the puzzles pictured here back to Goodwill. We only kept the puzzles given as gifts or bought for special reasons as memories to one day be redone. For all the other puzzles, we wanted to ensure they get put back into rotation. I wonder if there are other folks like us who ransack the Goodwill puzzles section every once in a blue moon.
 
-I would also like to say a few words on what makes a good puzzle. There are many different ways in which a puzzle can succeed or fail, and I'm sure those standards vary by puzzler as well. I think generally speaking large areas of a single color do not make for good puzzles (albeit there is [this monstrosity](https://www.ravensburger.us/products/jigsaw-puzzles/adult-puzzles/krypt-silver-15964/index.html) if you really must). Gradients are however very acceptable ways of making these areas more bearable, if your image requires it aesthetically. Variety of motifs and images also improves puzzling greatly. I don't think most landscapes or homes on the countryside make particularly good images for puzzles. I enjoy puzzles where a significant portion of the puzzle can be puzzled without need to resort to guess and check or shape sorting until around the last 10-15% of the puzzle remains. Any earlier than that can verge on tedium. I also think that puzzle piece shape and quality is an essential part of enjoyable puzzling. Nothing is more frustrating than realizing you've made a mistake because multiple puzzle pieces fit perfectly with each other. There should be one perfect fit. While nontraditional puzzle shapes are not a requirement to fulfill that criterion, they are certainly an enjoyable way to do so. Thicker puzzle pieces as well as wooden puzzles also create interesting and unique puzzling experiences.
+I would also like to say a few words on what makes a good puzzle. There are many different ways in which a puzzle can succeed or fail, and I'm sure those standards vary by puzzler as well. I think generally speaking large areas of a single color do not make for good puzzles (albeit there is [this monstrosity](https://www.ravensburger.us/products/jigsaw-puzzles/adult-puzzles/krypt-silver-15964/index.html) if you really must). Gradients are however very acceptable ways of making these areas more bearable, if your image requires it aesthetically. Variety of motifs and images also improves puzzling greatly. I don't think most landscapes or homes in the countryside make particularly good images for puzzles. I enjoy puzzles where a significant portion of the puzzle can be puzzled without needing to resort to guess and check or shape sorting until around the last 10-15% of the puzzle remains. Any earlier than that can verge on tedium. I also think that puzzle piece shape and quality is an essential part of enjoyable puzzling. Nothing is more frustrating than realizing you've made a mistake because multiple puzzle pieces fit perfectly with each other. There should be one perfect fit. While nontraditional puzzle shapes are not a requirement to fulfill that criterion, they are certainly an enjoyable way to do so. Thicker puzzle pieces as well as wooden puzzles also create interesting and unique puzzling experiences.
 
 Some brands I'd recommend without hesitation are Buffalo, Ravensburger, eeBoo, and Moruska.
 
