@@ -28,4 +28,4 @@ Reading books has also become an aesthetic in popular media, which is somewhat e
 
 Image Sources:
 - https://www.treehugger.com/cleaning-organizing/tsundoku-practice-buying-more-books-you-can-read.html
-- http://www.ravenoak.net/writing-resources/online-writing-resources/great-books-on-craft-by-genre
+- https://www.ravenoak.net/writing-resources/online-writing-resources/great-books-on-craft-by-genre

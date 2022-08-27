@@ -116,7 +116,7 @@
 @mixin background-triangle($color: $black) {
   $rgb: 'rgb%28#{red($color)}, #{green($color)}, #{blue($color)}%29';
 
-  background-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="32" height="24" viewBox="0 0 32 24"><polygon points="0,0 32,0 16,24" style="fill: #{$rgb}"></polygon></svg>');
+  background-image: url('data:image/svg+xml;utf8,<svg xmlns="https://www.w3.org/2000/svg" version="1.1" width="32" height="24" viewBox="0 0 32 24"><polygon points="0,0 32,0 16,24" style="fill: #{$rgb}"></polygon></svg>');
 
   @media screen and (min-width:0\0) {
     @if lightness($color) < 60% {
@@ -132,8 +132,8 @@
 
 /// Applies the micro clearfix hack popularized by Nicolas Gallagher. Include this mixin on a container if its children are all floated, to give the container a proper height.
 /// The clearfix is augmented with specific styles to prevent borders in flexbox environments
-/// @link http://nicolasgallagher.com/micro-clearfix-hack/ Micro Clearfix Hack
-/// @link http://danisadesigner.com/blog/flexbox-clear-fix-pseudo-elements/ Flexbox fix
+/// @link https://nicolasgallagher.com/micro-clearfix-hack/ Micro Clearfix Hack
+/// @link https://danisadesigner.com/blog/flexbox-clear-fix-pseudo-elements/ Flexbox fix
 @mixin clearfix {
   &::before,
   &::after {
@@ -149,7 +149,7 @@
 }
 
 /// Adds CSS for a "quantity query" selector that automatically sizes elements based on how many there are inside a container.
-/// @link http://alistapart.com/article/quantity-queries-for-css Quantity Queries for CSS
+/// @link https://alistapart.com/article/quantity-queries-for-css Quantity Queries for CSS
 ///
 /// @param {Number} $max - Maximum number of items to detect. The higher this number is, the more CSS that's required to cover each number of items.
 /// @param {Keyword} $elem [li] - Tag to use for sibling selectors.
@@ -170,7 +170,7 @@
 }
 
 /// Makes an element visually hidden, but still accessible to keyboards and assistive devices.
-/// @link http://snook.ca/archives/html_and_css/hiding-content-for-accessibility Hiding Content for Accessibility
+/// @link https://snook.ca/archives/html_and_css/hiding-content-for-accessibility Hiding Content for Accessibility
 @mixin element-invisible {
   position: absolute !important;
   width: 1px;
@@ -189,7 +189,7 @@
 }
 
 /// Vertically centers the element inside of its first non-static parent,
-/// @link http://www.sitepoint.com/centering-with-sass/ Centering With Sass
+/// @link https://www.sitepoint.com/centering-with-sass/ Centering With Sass
 @mixin vertical-center {
   position: absolute;
   top: 50%;
@@ -197,7 +197,7 @@
 }
 
 /// Horizontally centers the element inside of its first non-static parent,
-/// @link http://www.sitepoint.com/centering-with-sass/ Centering With Sass
+/// @link https://www.sitepoint.com/centering-with-sass/ Centering With Sass
 @mixin horizontal-center {
   position: absolute;
   left: 50%;
@@ -205,7 +205,7 @@
 }
 
 /// Absolutely centers the element inside of its first non-static parent,
-/// @link http://www.sitepoint.com/centering-with-sass/ Centering With Sass
+/// @link https://www.sitepoint.com/centering-with-sass/ Centering With Sass
 @mixin absolute-center {
   position: absolute;
   top: 50%;

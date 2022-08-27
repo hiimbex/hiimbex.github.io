@@ -1,4 +1,4 @@
-# [hiimbex.com](http://hiimbex.com)
+# [hiimbex.com](https://hiimbex.com)
 
 My personal studio art portfolio
 
